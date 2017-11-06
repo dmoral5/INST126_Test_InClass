@@ -1,0 +1,25 @@
+
+
+read_csv(“____”, (this name operation is optional)
+Assume file CSV - TSV 
+
+
+
+
+XML is like HTML, but more structured
+XML is very heirachiral, from top to bottom
+
+
+JSON has dictionary structure.
+JSON represents data as nested “lists” and “dictionaries”
+	import json
+	data = ‘’’{
+	“name” ; 
+
+
+JSON is a package that has a lot of ____ (functions)
+There are functions in there that can bring up JSON 
+
+
+****CHANGES TESTING!!!!*******
+
